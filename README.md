@@ -21,7 +21,7 @@ You can use a 3.3v arduino (ex.: Due) or make a signal conversion
 
 1. Press e - Erase
 2. Press s - Set size to 512:  s 512
-3. Press w
+3. Press w - (Next click on 'Send File')
 
 
 # For Dump
